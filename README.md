@@ -1,5 +1,5 @@
 # DataCrawler
-A simple tool to crawl data with scrapy </br>
+A super simple tool to crawl data with scrapy </br>
 You can use this tool to get xPath: https://chrome.google.com/webstore/detail/xpath-finder-test-recorde/kcfcepneepanakckpfnfkjppffbikehl </br>
 To get the result, just type: scrapy crawl crawler -o 'filename'.json </br>
 The purpose of this tool is to crawl Bestplayers on my gomoku site: </br>
